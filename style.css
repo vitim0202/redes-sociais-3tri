@@ -1,1 +1,7 @@
  @import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+
+ :root{
+    --cor-texto: #000000; preto;
+    --cor-fundo:#D1E9F6;Azul claro;
+    --cor-secundaria:#F1D3CE; pastel;
+ }
