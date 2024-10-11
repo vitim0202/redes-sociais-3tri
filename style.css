@@ -4,4 +4,10 @@
     --cor-texto: #000000; preto;
     --cor-fundo:#D1E9F6;Azul claro;
     --cor-secundaria:#F1D3CE; pastel;
+    --font:"Lobster", sans-serif;";
+ }
+ body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    font-family: var(--font);
  }
